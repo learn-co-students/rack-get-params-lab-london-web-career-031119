@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Application	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/app/application.rb	/^class Application$/;"	class	line:1
+call	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/app/application.rb	/^  def call(env)$/;"	method	line:5	class:Application
+handle_search	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/app/application.rb	/^  def handle_search(search_term)$/;"	method	line:23	class:Application
+app	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/spec/rack_mechanics_spec.rb	/^  def app()$/;"	method	line:4
+Rack Routes and GET Params	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/README.md	/^# Rack Routes and GET Params$/;"	function	line:1
+Instructions	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:5
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/rack-get-params-lab-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
