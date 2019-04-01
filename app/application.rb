@@ -22,7 +22,6 @@ class Application
           resp.write "#{x}\n"
           end
         end
-
       elsif req.path.match(/add/)
         add_item = req.params["item"]
         if @@items.include? add_item
@@ -34,8 +33,6 @@ class Application
       else
         resp.write "Path Not Found"
       end
-
-
     resp.finish
   end
 
